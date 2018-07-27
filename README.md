@@ -1,5 +1,5 @@
 # Github Trending Repos, Android Application
-Application shows the actual Github trending repos including details and contributors.
+Application shows the actual Github trending repos including details and contributors.<br>
 <br><b>Used frameworks:</b><br>
 Dagger2<br>
 Retrofit<br>
